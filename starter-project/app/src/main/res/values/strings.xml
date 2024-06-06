@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="gallery">Upload</string>
+    <string name="analyze">Analyze</string>
+    <string name="title_result">Result</string>
+    <string name="result">Result:<b>%s</b></string>
+    <string name="cannot_classify_image">Image classified : Failed</string>
+    <string name="empty_image">Choose an image</string>
+    <string name="sample_from_gallery">Samples</string>
+    <string name="show_articles">Articles</string>
+    <string name="no_data_found">Nothing found</string>
+    <string name="history">History</string>
+    <string name="image_classifier_failed">Failed to classify image</string>
+</resources>
